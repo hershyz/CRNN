@@ -48,8 +48,7 @@ public class PredictionService {
                     stringPercent = String.valueOf(percent);
                 }
 
-                //System.out.println("[line " + (i + 1) + "]: " + stringPercent + " %");
-                System.out.println(stringPercent);
+                System.out.println("[line " + (i + 1) + "]: " + stringPercent + " %");
             }
         }
         catch (Exception e) {
