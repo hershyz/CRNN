@@ -6,9 +6,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-        //C:\Users\bagal\Desktop\data.csv
-        //C:/Users/bagal/Desktop/model.csv
-
         //Get input:
         Scanner scn = new Scanner(System.in);
         System.out.println("CRNN - COVID-19 Risk Neural Network");
