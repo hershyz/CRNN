@@ -91,3 +91,13 @@
 </table>
 
 <p>Datasets used for training, testing, and diagnosis throughout the course of this project can be found <a href="https://github.com/hershyz/CRNN/tree/main/datasets">here</a>.</p>
+
+<br/>
+
+<h3>Project Documents:</h3>
+<ul>
+  <li><a href="https://github.com/hershyz/CRNN/blob/main/documents/Background%20Research%20Outline.pdf">Background Research Outline</a></li>
+  <li><a href="https://github.com/hershyz/CRNN/blob/main/documents/Research%20Plan.pdf">Research Plan</a></li>
+  <li><a href="https://github.com/hershyz/CRNN/blob/main/documents/CERA.pdf">CERA</a></li>
+  <li><a href="https://github.com/hershyz/CRNN/blob/main/documents/slides.pdf">Final Slideshow</a></li>
+</ul>
