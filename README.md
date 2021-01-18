@@ -13,3 +13,4 @@
 <img src="https://raw.githubusercontent.com/hershyz/CRNN/main/assets/training.gif"/>
 
 <h3>Predictions:</h3>
+<img src="https://raw.githubusercontent.com/hershyz/CRNN/main/assets/testing.gif"/>
