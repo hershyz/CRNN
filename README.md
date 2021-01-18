@@ -9,5 +9,7 @@
 
 <br/>
 
-<h4>Training:</h4>
+<h3>Training:</h3>
 <img src="https://raw.githubusercontent.com/hershyz/CRNN/main/assets/training.gif"/>
+
+<h3>Predictions:</h3>
