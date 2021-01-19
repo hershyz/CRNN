@@ -1,8 +1,6 @@
 <img src="https://raw.githubusercontent.com/hershyz/CRNN/main/assets/crnn.png"/>
 <p><i>Forecast COVID-19 risk in any geographical area using a predictive neural network.</i></p>
 
-[![HitCount](http://hits.dwyl.com/hershyz/CRNN.svg)](http://hits.dwyl.com/hershyz/CRNN)
-
 <p>
   The code in this repository was a software engineering project in the <a href="https://www.gcpsk12.org/gsmst">GSMST</a> engineering fair.<br/>
   CRNN is a perceptron neural network designed for customizable COVID-19 forecasting.
