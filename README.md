@@ -16,6 +16,12 @@
 <h3>Predictions:</h3>
 <img src="https://raw.githubusercontent.com/hershyz/CRNN/main/assets/testing.gif"/>
 
+<h3>Risk Forecasts:</h3>
+<p><i>Risk Table of All 50 States</i></p>
+<img src="https://raw.githubusercontent.com/hershyz/CRNN/main/states.PNG"/>
+<p><i>Risk Table of Top 20 Most Populus Counties in Georgia</i></p>
+<img src="https://raw.githubusercontent.com/hershyz/CRNN/main/counties.PNG"/>
+
 <h3>Datasets:</h3>
 <p>A dataset in a spreadsheet would look like this, having labels and text corresponding to numerical data.</p>
 <table class="tg">
