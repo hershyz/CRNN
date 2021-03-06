@@ -101,6 +101,14 @@
 
 <br/>
 
+<h3>Awards 🏆</h3>
+<ul>
+  <li>1st Place in GSMST Science and Engineering Fair</li>
+  <li>1st Place in Gwinnett County Science and Engineering Fair</li>
+</ul>
+
+<br/>
+
 <h3>Project Documents:</h3>
 <ul>
   <li><a href="https://github.com/hershyz/CRNN/blob/main/documents/Background%20Research%20Outline.pdf">Background Research Outline</a></li>
