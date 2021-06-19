@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/hershyz/CRNN/main/assets/crnn.png"/>
-<p><i>Forecast COVID-19 risk in any geographical area using a predictive neural network.</i></p>
+<p><i>Forecast COVID-19 risk in any geographic area using a predictive neural network.</i></p>
 
 <a href="https://github.com/hershyz/CRNN/releases/tag/1.0">Download Portable JAR Binary</a>
 
